@@ -1,0 +1,28 @@
+name: shaved_chimp
+favicon: null
+layout_spectrum: 0.052072563441470265
+typography_spectrum: 0.3676718908827752
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.2752497980836779
+  lightness: 0.5271745808422565
+  saturation: 0.8831990729086101
+  rhythmicContrast: 0.7503892004024237
+purpose: []
